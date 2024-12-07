@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/Users/tang/Course/编译原理与技术/Lab/语法分析实验/level2",
+  "arguments": ["/opt/homebrew/opt/llvm/bin/clang", "-c", "-Qunused-arguments", "-std=c++23", "-o", "build/.objs/level2/macosx/arm64/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
+}]

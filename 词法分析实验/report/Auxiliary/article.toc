@@ -1,0 +1,21 @@
+\contentsline {section}{\numberline {1}什么是 lex/flex？}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}程序设计说明}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}测试报告}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}用 flex 生成 PL 语言的词法分析器}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}程序设计说明}{2}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}具体实现}{3}{subsubsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.2}测试报告}{3}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}识别 \texttt {CHARCON}}{3}{subsubsection.2.2.1}%
+\contentsline {section}{\numberline {3}词法分析程序的设计与实现（C/C++）}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}程序设计说明}{5}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}配对缓冲区实现}{6}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}常量表数据结构}{7}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}完整转换图}{7}{subsubsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.2}测试报告}{9}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}对合法的不带后缀的八进制数与十六进制数的识别}{9}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}对合法的带后缀的十进制数的识别}{9}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}考虑完整的浮点型常量的识别}{9}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}带前缀的字符串常量的识别}{9}{subsubsection.3.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.5}完整的字符常量的识别}{10}{subsubsection.3.2.5}%
+\contentsline {subsubsection}{\numberline {3.2.6}字符串}{10}{subsubsection.3.2.6}%
+\contentsline {section}{\numberline {4}线上测试例通过情况截图}{10}{section.4}%

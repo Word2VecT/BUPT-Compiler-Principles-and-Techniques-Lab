@@ -763,7 +763,6 @@ int main(int argc, char* argv[])
                 break;
             case '\n':
                 ++line_cnt;
-                break;
             default:
                 state = 27;
                 break;
@@ -777,7 +776,6 @@ int main(int argc, char* argv[])
                 break;
             case '\n':
                 ++line_cnt;
-                break;
             default:
                 state = 27;
                 break;
